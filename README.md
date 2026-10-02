@@ -1,6 +1,10 @@
 # BidForGood – Charity Auction Backend
 Node.js + Express + MongoDB (Mongoose) + Socket.io + Firebase (optional)
 
+   **Live API:** https://bidforgood-p0i5.onrender.com
+   
+   **API docs:** docs/BidForGood.postman_collection.json
+
 ## Setup
 1. `npm install`
 2. `cp .env.example .env` and set `MONGO_URI` and `JWT_SECRET`
